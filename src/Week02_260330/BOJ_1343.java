@@ -9,6 +9,7 @@ public class BOJ_1343 {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 
         String input = br.readLine();
+
         int Xcount = 0;
         String answer = "";
 
